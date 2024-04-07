@@ -8,9 +8,7 @@
 
 ## Prepare
 
-- you need download the competiton dataset from https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis/data
-- Please download all datasets, include "twitter_training.csv" and "twitter_validation.csv" !!!!!
-- Put the two csv into Datasets folder !!!!!
+- you don't need download the datasets, since I have put them into the Datasets folder.
 - you need download the "glove.6B.300d.txt" from https://www.kaggle.com/datasets/aellatif/glove6b300dtxt !!!!!
 - Put the "glove.6B.300d.txt" with main.py in the same location. !!!!! 
 
