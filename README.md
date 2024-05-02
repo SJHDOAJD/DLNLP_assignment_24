@@ -12,6 +12,13 @@
 - you need download the "glove.6B.300d.txt" from https://www.kaggle.com/datasets/aellatif/glove6b300dtxt !!!!!
 - Put the "glove.6B.300d.txt" with main.py in the same location. !!!!! 
 
+## Note
+
+- You can find the saved models through the link: https://www.dropbox.com/scl/fo/u6mu5zjlxgtsm4oh53eqz/AM8y_O99HQ0a-eHvQVspi1U?rlkey=ky2nydvzhqad3z9v7arvbmsro&st=skimclko&dl=0
+- But, I don't think that using saved models is a good method.
+- In my test, the saved models produce different results with each use (accuracy becomes higher, loss become lower).
+- So, this method would give the wrong and changing results.
+
 ## Documents
 
 - main.py (run the project)
